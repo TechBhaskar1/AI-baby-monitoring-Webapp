@@ -5,7 +5,7 @@ sound ="";
 
 
 function preload() {
-    sound = loadSound('alarm.mp3');
+    sound = loadSound('x.mp3');
 }
 function setup() {
     
