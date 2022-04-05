@@ -1,0 +1,26 @@
+body {
+    background: url("background.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.heading {
+    top: 0;
+    margin: 0;
+    font-size: 53px;
+    width: 100%;
+    padding: 5px;
+    font-variant: small-caps;
+    text-shadow: 4px 2px 2px 2px red;
+    color: rgb(232, 0, 162);
+    background-color: pink;
+    
+}
+#status,#check{
+    border-radius: 10px;
+    font-size: 20px;
+    
+    height: 45px;
+    margin: 20px;
+}
